@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tolerate Imperfection"
-date:   2020-08-09 17:00:00 +0100
+title: "Tolerate Imperfection"
+date: 2020-08-09 17:00:00 +0100
 categories: software
 ---
 Software engineers feel uneasy when things aren't right.
@@ -28,7 +28,7 @@ All of these solutions (and more) are reasonable, depending on the context.
 They all have tradeoffs: initial implementation effort, running costs, maintenance, monitoring.
 But too often I see engineers choose a too-complicated, too-expensive, option because the stupid-simple solution made them uneasy.
 
-Look, I'm not arguing that you should sleepwalk into tech debt.
+Look, I'm not arguing that you should sleepwalk into tech debt.
 I'm saying that when you have many options available to you to solve a problem, and the simple option makes you feel uneasy, you should step back and consider _why_.
 Often, there's a sound reason why the simple solution doesn't work.
 Sometimes there isn't.
