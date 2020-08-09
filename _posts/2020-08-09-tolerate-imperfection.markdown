@@ -13,8 +13,6 @@ Refined unease.
 
 We learn that unease is a reliable indicator that we are heading towards a problem.
 
-<!--more-->
-
 Good and great engineers feel this unease.
 What differentiates the good from the great? Great engineers listen to their intuition, but use their conscious minds to reason about whether something should be done.
 Great engineers cultivate space between unease and action.
