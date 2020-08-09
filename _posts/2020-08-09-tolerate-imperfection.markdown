@@ -47,7 +47,7 @@ However, there comes a point (quickly) where re-engineering existing code is a w
 Do the small things that  make the code more hospitable.
 If you want to do anything more, consider carefully.
 
-How many times have you heard a teammate say they're picking up a refactor as part of their ticket only for it to get out of hand and completely halt progress on their primary goal? How many of these refactors are eventually abandoned before completion? How often does this result in two parrallel models for the same thing, making the codebase even more confusing?
+How many times have you heard a teammate say they're picking up a refactor as part of their ticket only for it to get out of hand and completely halt progress on their primary goal? How many of these refactors are eventually abandoned before completion? How often does this result in two parallel models for the same thing, making the codebase even more confusing?
 
 There are other advantages to tolerating imperfection.
 
