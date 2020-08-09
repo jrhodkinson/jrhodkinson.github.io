@@ -25,11 +25,11 @@ Imagine that you are developing a system that operates on some data.
 Should you persist some data in a database, an ordered log, or a properties file? Does it need to be persisted at all, or would it be acceptable to recompute it on start? Or even to accept that the data will be lost on restart? In a vacuum, it is impossible to argue fruitfully for one of these solutions over any other.
 
 All of these solutions (and more) are reasonable, depending on the context.
-They all have tradeoffs: initial implementation effort, running costs, maintainance, monitoring.
+They all have tradeoffs: initial implementation effort, running costs, maintenance, monitoring.
 But too often I see engineers choose a too-complicated, too-expensive, option because the stupid-simple solution made them uneasy.
 
 Look, I'm not arguing that you should sleepwalk into tech debt.
-I'm saying that when you have many options available to you to solve a problem and the simple option makes you feel uneasy, you should step back and consider _why_.
+I'm saying that when you have many options available to you to solve a problem, and the simple option makes you feel uneasy, you should step back and consider _why_.
 Often, there's a sound reason why the simple solution doesn't work.
 Sometimes there isn't.
 When there isn't, you save yourself the trouble of implementing the complex solution, and your teammates the trouble of maintaining it.
@@ -56,7 +56,7 @@ The original authors might have made the perfect tradeoff, but you can't see tha
 Your unease is unfounded and more akin to that of the junior engineer or student.
 Always account for the possibility that your intuition is wrong.
 
-Rewriting a junior engineer's code is demoralising.
+Rewriting a junior engineer's code demoralises.
 If a junior has done something that isn't right, don't take it upon yourself to rewrite it.
 First, decide if something needs to be done.
 Maybe it doesn't.
