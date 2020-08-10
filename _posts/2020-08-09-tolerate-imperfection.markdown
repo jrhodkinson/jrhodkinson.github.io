@@ -67,3 +67,4 @@ There is nothing more discouraging than discovering that a senior silently rewro
 You must be able to tolerate imperfection if you are to get anything done at all.
 Nothing we ever do will be perfect.
 It's a fool's errand to try to make it so.
+Let it go.
