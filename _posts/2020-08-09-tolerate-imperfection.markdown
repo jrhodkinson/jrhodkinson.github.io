@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tolerate Imperfection"
+title: "Tolerate imperfection"
 date: 2020-08-09 17:00:00 +0100
 categories: software
 ---
