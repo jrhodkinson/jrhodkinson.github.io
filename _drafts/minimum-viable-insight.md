@@ -4,8 +4,13 @@ title: "Minimum viable insight"
 date: TODO
 categories: software
 ---
-My memory is terrible.
-I use lists to compensate.
-Over the years, I have learnt to trust my systems.
-I still get that nagging feeling "I must be forgetting something", but if my lists are quiet I know that things are under control.
+Attention is limited.
+For maximum impact, focus your text or speech on one core idea, essential arguments, and no more.
+Present the core idea up front so...
 
+It is your responsibility as writer or speaker to mine a topic until the core idea reveals itself, and then provide the strongest case for it.
+
+
+Man-hours spent writing vs man-hours spent reading.
+
+Why do people study?
