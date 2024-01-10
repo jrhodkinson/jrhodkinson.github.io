@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding Java Interfaces: A Comprehensive Guide"
 date: 2023-01-10 12:00:00
-categories: software, tutorial, java
+categories: java
 ---
 
 _This is a stripped down text version of the video [Java Interfaces Explained](https://youtu.be/BrUuDnmtvK8). The video has many more examples and in depth explanations._
