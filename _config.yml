@@ -49,6 +49,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-social_links:
-  - { platform: youtube, user_url: "https://www.youtube.com/channel/UCYeH1NTBu6lthW8AKd6y2wQ" }
-  - { platform: github, user_url: "https://github.com/jrhodkinson" }
+minima:
+  social_links:
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCYeH1NTBu6lthW8AKd6y2wQ" }
+    - { platform: github, user_url: "https://github.com/jrhodkinson" }
