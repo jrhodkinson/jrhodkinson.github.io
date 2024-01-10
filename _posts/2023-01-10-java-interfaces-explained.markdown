@@ -7,17 +7,13 @@ categories: java
 
 _This is a stripped down text version of the video [Java Interfaces Explained](https://youtu.be/BrUuDnmtvK8). The video has many more examples and in depth explanations._
 
-In this guide, we'll delve into the concept of interfaces in Java, exploring their significance and practical applications through real-world examples.
-Whether you're new to Java or seeking to deepen your understanding of this fundamental concept, this guide is designed to offer valuable insights for all levels of expertise.
-
 ## What is an Interface?
 
-An interface in Java acts as a contract or blueprint for a class.
+An interface in Java is a **contract** or **blueprint** for a class.
 It specifies _what_ a class must do, but not _how_ it does it.
 
-
 For instance, consider this interface `Playable`, which includes a method `play`.
-This method has no body, leaving the implementation details to the classes that will use this interface.
+This method has no body.
 
 ```java
 public interface Playable {
@@ -142,11 +138,7 @@ Processor processor = System.out::println;
 
 Functional interfaces are a key part of Java's lambda expressions, allowing for concise and expressive code.
 
-### Advanced Features of Java Interfaces: Inheritance, Extension, and Generics
-
-Advanced features like interface inheritance, extending interfaces, and generic interfaces further enhance the capability and flexibility of interfaces in Java.
-
-#### Interface Inheritance
+### Interface Inheritance
 
 Java interfaces support the concept of inheritance, similar to classes.
 One interface can extend another, inheriting its methods.
@@ -167,7 +159,7 @@ public interface ErrorLogger extends Logger {
 
 `ErrorLogger` extends `Logger`, adding a new method `logError`, while still maintaining the original `log` method from `Logger`.
 
-#### Generic Interfaces
+### Generic Interfaces
 
 Interfaces in Java can be generic, allowing for type parameters.
 This makes interfaces more flexible and reusable, as they can be used with various data types.
