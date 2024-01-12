@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jrhodkinson
 show_excerpts: true
-google_analytics: G-3GZFS0KE7M
+google_analytics: G-2F8DDYFRKJ
 
 # Build settings
 remote_theme: jekyll/minima
