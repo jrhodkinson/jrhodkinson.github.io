@@ -6,18 +6,22 @@ date: 2025-02-02 11:00:00
 
 These are the exact strategies that 10x developers are using to outcompete 99% of other developers and dominate the industry.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fVBC6n66PME?si=_LiXt-FWDXaMj2q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 If you're still thinking in terms of clean code, then you're focusing on the wrong things. Here's what actually matters:
+
+---
 
 ## 1. Solve the Right Problems, Not Every Problem
 
 Prioritise tasks that have an **exponential ROI** over polishing rarely used features.
 
+---
+
 ## 2. Think in Business Impact
 
 Frame decisions in terms of **revenue, user engagement, and metrics specific to your business**.  
 Communicate in **stakeholder language** and focus on problems that move the needle on your business’s key metrics.
+
+---
 
 ## 3. Prioritise Deep Work at All Costs
 
@@ -85,3 +89,7 @@ And if you **do** end up with extra time:
 - Cultivate **relationships with key stakeholders** who can support you when needed.
 - Create **shields** around organisational chaos to protect your team’s **deep work**.
 - Learn as much as you can about how your **industry works from a non-technical perspective**.
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fVBC6n66PME?si=_LiXt-FWDXaMj2q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
