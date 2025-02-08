@@ -20,15 +20,15 @@ I now believe that the best way to progress as a software engineer is to first d
 
 ---
 
-## 2. Burnout is not a Badge of Honor
+## 2. Burnout is not a Badge of Honour
 
 I used to jump on every production issue and last minute request. Now, especially since remote work has become more common, there’s pressure to be available 24/7.
 
 Early in my career, I thought working late nights and sacrificing weekends made me a dedicated engineer. I saw others do it and thought it was a necessary step to prove my worth. But burning out doesn’t make you a hero, it makes you ineffective. When you’re exhausted, you make more mistakes, become less productive, and feel miserable.
 
-I’ve personally quit otherwise great jobs solely due to burnout. The best engineers I work with know how to pace themselves. They take breaks, set boundaries, and prioritize their health without guilt. This actually increases their stamina, energy, and productivity.
+I’ve personally quit otherwise great jobs solely due to burnout. The best engineers I work with know how to pace themselves. They take breaks, set boundaries, and prioritise their health without guilt. This actually increases their stamina, energy, and productivity.
 
-Pushing yourself to the limit is a tool you can apply for short term wins, but for long term success, you need sustainable work habits. Set boundaries, prioritize rest, and know when to say no. If you want a long, fulfilling career in software, don’t glorify burnout - focus on sustainable growth and balance.
+Pushing yourself to the limit is a tool you can apply for short term wins, but for long term success, you need sustainable work habits. Set boundaries, prioritise rest, and know when to say no. If you want a long, fulfilling career in software, don’t glorify burnout - focus on sustainable growth and balance.
 
 ---
 
