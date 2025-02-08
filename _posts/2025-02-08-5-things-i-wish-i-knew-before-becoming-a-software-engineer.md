@@ -4,6 +4,7 @@ title: "5 Things I Wish I Knew Before Becoming a Software Engineer"
 date: 2025-02-08 13:00:00
 ---
 
+This is my brutally honest advice to anyone starting a career in software engineering. I wasted years figuring out what truly matters, but if you want to skip the trial and error, then this is the advice that I wish I had from day one.
 
 ## 1. Code Is the Easy Part
 
