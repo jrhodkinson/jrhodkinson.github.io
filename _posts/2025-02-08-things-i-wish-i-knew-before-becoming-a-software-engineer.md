@@ -6,7 +6,7 @@ date: 2025-02-08 13:00:00
 
 This is my brutally honest advice to anyone starting a career in software engineering. I wasted years figuring out what truly matters, but if you want to skip the trial and error, then this is the advice that I wish I had from day one.
 
-## 1. Code Is the Easy Part
+## 1. Code is the Easy Part
 
 This took me years to learn. I used to think that writing code was the hardest part of being a software engineer. It’s a rare and valuable skill that many of us work really hard to develop. Because it was so difficult, it’s easy to tie our worth to our ability to write code, to think that the only thing that matters is technical ability.
 
@@ -20,7 +20,7 @@ I now believe that the best way to progress as a software engineer is to first d
 
 ---
 
-## 2. Burnout Is Not a Badge of Honor
+## 2. Burnout is not a Badge of Honor
 
 I used to jump on every production issue and last minute request. Now, especially since remote work has become more common, there’s pressure to be available 24/7.
 
@@ -38,7 +38,9 @@ Your approach to documentation, testing, and version control separates junior de
 
 Documentation is for future you (and everyone else). I developed the habit of writing documentation for myself years ago, and it has paid off repeatedly. I also write little scripts to automate repetitive tasks. I once dreaded restoring a database backup until I found a script I had written years ago that automated the entire process.
 
-Automated testing is another thing that saves you time and effort in the long run. No, it’s not fun to write tests, but it’s essential. And taking the time to learn how to use version control properly will save you a lot of pain. Git isn’t just a tool to email code to your colleagues. Learn proper branching and rebasing strategies, and you’ll be able to manage simultaneous features, bug fixes, and releases without breaking things.
+Automated testing is another thing that saves you time and effort in the long run. No, it’s not fun to write tests, but it’s essential.
+
+Taking the time to learn how to use version control properly will save you a lot of pain. Git isn’t just a tool to email code to your colleagues. Learn proper branching and rebasing strategies, and you’ll be able to manage simultaneous features, bug fixes, and releases without breaking things.
 
 I once lost half a day’s work because I didn’t understand how rebasing worked. Don’t put yourself in that position. Learn the boring stuff. It saves you more pain than it causes.
 
@@ -60,15 +62,21 @@ I’ve invested time in learning how to design user interfaces and spend time th
 
 ## 5. Everyone Feels Lost
 
-If you feel like you don’t know enough: congratulations, you’re doing it right. I used to believe that one day I’d wake up and finally feel like I belonged in this industry, but that day never came.
+If you feel like you don’t know enough: congratulations, you’re doing it right.
+
+I used to believe that one day I’d wake up and finally feel like I belonged in this industry, but that day never came.
 
 No matter how experienced you are, doubt never fully goes away. The best engineers don’t wait to feel confident, they just trust that they’ll figure it out. The trick isn’t to eliminate doubt, it’s to move forward despite it.
 
-Even now, years into my career, I have moments, sometimes entire days, where I doubt whether I’m moving fast enough, doing enough good work, or making a difference at all. I track my progress, see the impact of my work, and get positive feedback, yet I still find myself wondering, Was today a waste? Did I really accomplish anything?
+Even now, years into my career, I have moments, sometimes entire days, where I doubt whether I’m moving fast enough, doing enough good work, or making a difference at all. I track my progress, see the impact of my work, and get positive feedback, yet I still find myself wondering: Was today a waste? Did I really accomplish anything?
 
-You can know intellectually that you’re making progress, but how you feel is a different story. And I know I’m not alone in this. If you’re just starting out, the worst thing you can do is compare your first chapter to someone else’s tenth. The people you look up to have been in the trenches longer, made more mistakes, and spent years refining their instincts. You’re not behind; you’re just at a different stage.
+You can know intellectually that you’re making progress, but how you feel is a different story. And I know I’m not alone in this.
 
-Document your progress so you can see how far you’ve come. Focus on learning rather than proving yourself. Get comfortable with discomfort. It’s a sign that you’re growing. Imposter syndrome isn’t a sign of failure, it’s proof that you’re stretching yourself beyond what’s easy and growing into the kind of engineer you’re becoming. If anything, it shows that you’re on the right track.
+If you’re just starting out, the worst thing you can do is compare your first chapter to someone else’s tenth. The people you look up to have been in the trenches longer, made more mistakes, and spent years refining their instincts. You’re not behind; you’re just at a different stage.
+
+Document your progress so you can see how far you’ve come. Focus on learning rather than proving yourself. Get comfortable with discomfort - it’s a sign that you’re growing.
+
+Imposter syndrome isn’t a sign of failure, it’s proof that you’re stretching yourself beyond what’s easy and growing into the kind of engineer you’re becoming. If anything, it shows that you’re on the right track.
 
 ---
 
